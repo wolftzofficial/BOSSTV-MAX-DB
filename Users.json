@@ -1,1 +1,9 @@
-
+[
+  {
+    "id": "54593e9db2021476",
+    "username": "wolf",
+    "password": "1234",
+    "expiresAt": "2027-12-12",
+    "allowOffline": false
+  }
+]
