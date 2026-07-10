@@ -1,16 +1,9 @@
 [
   {
-    "id": "54593e9db2021476",
-    "username": "wolf",
-    "password": "wolf",
-    "expiresAt": "2027-12-12",
-    "allowOffline": false
-  },
-  {
-    "id": "754434334",
-    "username": "hhh",
-    "password": "hhh",
-    "expiresAt": "2027-12-12",
+    "id": "4abc283d8efd9dec",
+    "username": "Dully",
+    "password": "123456",
+    "expiresAt": "2027-7-7",
     "allowOffline": false
   }
 ]
