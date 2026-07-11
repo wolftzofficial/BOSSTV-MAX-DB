@@ -19,5 +19,12 @@
     "password": "D",
     "expiresAt": "2027-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "54593e9db2021476",
+    "username": "Wolf",
+    "password": "Wolf",
+    "expiresAt": "2027-12-12",
+    "allowOffline": false
   }
 ]
